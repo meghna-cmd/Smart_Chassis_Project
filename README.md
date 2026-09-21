@@ -265,3 +265,6 @@ B.Tech Engineering Student
 The project includes vibration analysis, anomaly detection, dashboard visualization, sensor simulation, API integration, database storage, logging, and testing components.
 
 Further validation and real-world sensor testing are required for future development.
+## 🚀 Live Demo
+
+[View Live Dashboard](https://smartchassisproject-m7gtbfqfy8t3zumnvmqcnn.streamlit.app/)
