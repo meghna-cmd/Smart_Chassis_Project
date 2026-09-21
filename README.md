@@ -265,6 +265,32 @@ B.Tech Engineering Student
 The project includes vibration analysis, anomaly detection, dashboard visualization, sensor simulation, API integration, database storage, logging, and testing components.
 
 Further validation and real-world sensor testing are required for future development.
+
+---
+
+## 📸 Project Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
+
+### Time Domain Vibration Analysis
+![Time Domain Vibration Analysis](Time_domain_vibration_analysis.png)
+
+### Frequency Domain Analysis
+![Frequency Domain Analysis](Frequency_domain_analysis.png)
+
+### Machine Learning Anomaly Detection
+![Machine Learning Anomaly Detection](Machine_learning_anomaly_result.png)
+
+### Statistical Anomaly Detection
+![Statistical Anomaly Detection](Statistical_anomaly_detection.png)
+
+### Sensor Anomaly Timeline
+![Sensor Anomaly Timeline](Sensor_Anomaly_Timeline.png)
+
+### RMS Comparison Across Signals
+![RMS Comparison](RMS_comparison_across_signals.png)
+
 ## 🚀 Live Demo
 
 [View Live Dashboard](https://smartchassisproject-m7gtbfqfy8t3zumnvmqcnn.streamlit.app/)
