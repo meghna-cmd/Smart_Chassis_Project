@@ -1,0 +1,13 @@
+Signal,Test Samples,Predicted Anomalies,Predicted Anomaly Percentage,Validation Type
+Crack1_30,960,52,5.42,Unsupervised holdout; no verified damage labels
+Crack1_50,576,38,6.6,Unsupervised holdout; no verified damage labels
+Crack2_30,960,54,5.62,Unsupervised holdout; no verified damage labels
+Crack2_50,720,30,4.17,Unsupervised holdout; no verified damage labels
+Crack3_30,960,50,5.21,Unsupervised holdout; no verified damage labels
+Crack3_50,576,38,6.6,Unsupervised holdout; no verified damage labels
+Crack4_30,960,57,5.94,Unsupervised holdout; no verified damage labels
+Crack4_50,576,44,7.64,Unsupervised holdout; no verified damage labels
+Crack5_30,960,55,5.73,Unsupervised holdout; no verified damage labels
+Crack5_50,576,40,6.94,Unsupervised holdout; no verified damage labels
+Crack6_30,960,55,5.73,Unsupervised holdout; no verified damage labels
+Crack6_50,576,22,3.82,Unsupervised holdout; no verified damage labels

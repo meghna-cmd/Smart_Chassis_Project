@@ -1,0 +1,13 @@
+Signal,Total Samples,Percentile Anomalies,Percentile Percentage,Isolation Forest Anomalies,Isolation Forest Percentage
+Crack1_30,4800,96,2.0,856,17.83
+Crack1_50,2880,58,2.01,585,20.31
+Crack2_30,4800,96,2.0,830,17.29
+Crack2_50,3600,72,2.0,779,21.64
+Crack3_30,4800,94,1.96,951,19.81
+Crack3_50,2880,58,2.01,564,19.58
+Crack4_30,4800,96,2.0,812,16.92
+Crack4_50,2880,57,1.98,617,21.42
+Crack5_30,4800,96,2.0,840,17.5
+Crack5_50,2880,57,1.98,685,23.78
+Crack6_30,4800,93,1.94,1048,21.83
+Crack6_50,2880,58,2.01,727,25.24
