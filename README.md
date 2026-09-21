@@ -268,28 +268,50 @@ Further validation and real-world sensor testing are required for future develop
 
 ---
 
+
 ## 📸 Project Screenshots
 
 ### Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
 
-### Time Domain Vibration Analysis
-![Time Domain Vibration Analysis](Time_domain_vibration_analysis.png)
+### Dataset Information
+![Dataset Information](Dataset_information.png)
 
 ### Frequency Domain Analysis
 ![Frequency Domain Analysis](Frequency_domain_analysis.png)
 
-### Machine Learning Anomaly Detection
-![Machine Learning Anomaly Detection](Machine_learning_anomaly_result.png)
+### Machine Learning Anomaly Result
+![Machine Learning Anomaly Result](Machine_learning_anomaly_result.png)
 
-### Statistical Anomaly Detection
-![Statistical Anomaly Detection](Statistical_anomaly_detection.png)
+### Machine Learning Result Summary
+![Machine Learning Result Summary](Machine_learning_result_summary.png)
+
+### Peak-to-Peak Comparison
+![Peak-to-Peak Comparison](Peak_to_peak_comparison.png)
+
+### RMS Comparison Across Signals
+![RMS Comparison](RMS_comparison_across_signals.png)
 
 ### Sensor Anomaly Timeline
 ![Sensor Anomaly Timeline](Sensor_Anomaly_Timeline.png)
 
-### RMS Comparison Across Signals
-![RMS Comparison](RMS_comparison_across_signals.png)
+### Sensor Data Preview
+![Sensor Data Preview](Sensor_data_preview.png)
+
+### Simulated Sensor Vibration
+![Simulated Sensor Vibration](Simulated_Sensor_Vibration.png)
+
+### Standard Deviation Comparison
+![Standard Deviation Comparison](Standard_deviation_comparison.png)
+
+### Statistical Anomaly Detection
+![Statistical Anomaly Detection](Statistical_anomaly_detection.png)
+
+### Time Domain Vibration Analysis
+![Time Domain Vibration Analysis](Time_domain_vibration_analysis.png)
+
+### All Signals Summary
+![All Signals Summary](All_signals_summary.png)
 
 ## 🚀 Live Demo
 
